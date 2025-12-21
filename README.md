@@ -65,9 +65,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Rakshit1804kumar&show_icons=true&theme=react" alt="stats" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshit1804kumar&theme=react" alt="streak" />
-</p>
+
 
 ---
 
@@ -79,4 +77,4 @@
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+🌟 Enjoy exploring my projects? Don’t forget to drop a ⭐ and stay connected!
