@@ -8,6 +8,13 @@
   </em>
 </p>
 
+<p align="center">
+  🔗 <strong>Portfolio:</strong> 
+  <a href="https://my-portfolio-delta-cyan-23.vercel.app/" target="_blank">
+    my-portfolio-delta-cyan-23.vercel.app
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -28,6 +35,9 @@
 </a>
 <a href="https://www.leetcode.com/rakshitkumar101" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+<a href="https://my-portfolio-delta-cyan-23.vercel.app/" target="_blank">
+  <img align="center" src="https://img.icons8.com/fluency/48/domain.png" height="30" width="30"/>
 </a>
 </p>
 
@@ -56,7 +66,8 @@
 - 📊 **CRM System** – Frontend + Backend (Spring Boot & MySQL)  
 - ✈️ **Airline Management System** – Admin-based Java project  
 
-👉 Check my repositories for more!
+👉 Explore more projects on my **GitHub repositories**  
+👉 Visit my **Portfolio** for live demos
 
 ---
 
@@ -64,8 +75,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rakshit1804kumar&show_icons=true&theme=react" alt="stats" />
 </p>
-
-
 
 ---
 
